@@ -20,3 +20,6 @@ To install:
     type: Javascript module
           
   Download the "strand.js" file and add it to the 'www' folder.
+
+To load the ui:
+Go to the dashboard and reload the page.

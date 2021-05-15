@@ -23,3 +23,8 @@ To install:
 
 To load the ui:
 Go to the dashboard and reload the page.
+
+
+Todo:
+- add notifications
+- ideas
